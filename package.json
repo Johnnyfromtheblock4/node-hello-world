@@ -9,5 +9,13 @@
     "watch": "node --watch index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnnyfromtheblock4/node-hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Johnnyfromtheblock4/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/Johnnyfromtheblock4/node-hello-world#readme"
 }
